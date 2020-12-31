@@ -11,6 +11,7 @@
 		CE0F3270259DA3AA0009551B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F326F259DA3AA0009551B /* LoginViewController.swift */; };
 		CE0F3274259DA3C60009551B /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F3273259DA3C60009551B /* RegisterVC.swift */; };
 		CE0F32A3259DAFCF0009551B /* ACFloatingTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F32A2259DAFCF0009551B /* ACFloatingTextfield.swift */; };
+		CE0F32A9259DD29E0009551B /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0F32A8259DD29E0009551B /* TestFile.swift */; };
 		CE3EEACC259B3CA200CFFC19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3EEACB259B3CA200CFFC19 /* AppDelegate.swift */; };
 		CE3EEACE259B3CA200CFFC19 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3EEACD259B3CA200CFFC19 /* SceneDelegate.swift */; };
 		CE3EEAD0259B3CA200CFFC19 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3EEACF259B3CA200CFFC19 /* ViewController.swift */; };
@@ -26,6 +27,7 @@
 		CE0F326F259DA3AA0009551B /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		CE0F3273259DA3C60009551B /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
 		CE0F32A2259DAFCF0009551B /* ACFloatingTextfield.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ACFloatingTextfield.swift; sourceTree = "<group>"; };
+		CE0F32A8259DD29E0009551B /* TestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 		CE3EEAC8259B3CA200CFFC19 /* logintask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = logintask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE3EEACB259B3CA200CFFC19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE3EEACD259B3CA200CFFC19 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		CE0F326E259DA3240009551B /* testfolder2 */ = {
 			isa = PBXGroup;
 			children = (
+				CE0F32A8259DD29E0009551B /* TestFile.swift */,
 			);
 			path = testfolder2;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE3EEAD0259B3CA200CFFC19 /* ViewController.swift in Sources */,
+				CE0F32A9259DD29E0009551B /* TestFile.swift in Sources */,
 				CE3EEACC259B3CA200CFFC19 /* AppDelegate.swift in Sources */,
 				CE3EEAD6259B3CA200CFFC19 /* logintask.xcdatamodeld in Sources */,
 				CE0F3274259DA3C60009551B /* RegisterVC.swift in Sources */,
